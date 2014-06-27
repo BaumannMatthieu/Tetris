@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1346170878 source:/home/baumann/Bureau/Tetris + Sources/event.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"event.h"
+
+1346170878 /home/baumann/Bureau/Tetris + Sources/event.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1346170876 source:/home/baumann/Bureau/Tetris + Sources/jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"constantes.h"
+	"liste.h"
+	"scores.h"
+	"event.h"
+	"perdu.h"
+	"jeu.h"
+
+1346170876 /home/baumann/Bureau/Tetris + Sources/constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1346170876 /home/baumann/Bureau/Tetris + Sources/liste.h
+
+1346170876 /home/baumann/Bureau/Tetris + Sources/scores.h
+
+1346170878 /home/baumann/Bureau/Tetris + Sources/perdu.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1346170876 /home/baumann/Bureau/Tetris + Sources/jeu.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1346170876 source:/home/baumann/Bureau/Tetris + Sources/liste.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"liste.h"
+
+1346170878 source:/home/baumann/Bureau/Tetris + Sources/perdu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"constantes.h"
+	"event.h"
+	"perdu.h"
+	"jeu.h"
+
+1346170874 source:/home/baumann/Bureau/Tetris + Sources/scores.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"constantes.h"
+	"event.h"
+	"scores.h"
+	"liste.h"
+
+1346076856 source:/home/baumann/Bureau/Tetris + Sources/Sources/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"constantes.h"
+	"liste.h"
+	"event.h"
+	"perdu.h"
+	"jeu.h"
+	"scores.h"
+
+1346076856 /home/baumann/Bureau/Tetris + Sources/Sources/constantes.h
+	<stdio.h>
+	<stdlib.h>
+
+1346071746 /home/baumann/Bureau/Tetris + Sources/Sources/liste.h
+
+1346076856 /home/baumann/Bureau/Tetris + Sources/Sources/event.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1346076856 /home/baumann/Bureau/Tetris + Sources/Sources/perdu.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1346076856 /home/baumann/Bureau/Tetris + Sources/Sources/jeu.h
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1346076856 /home/baumann/Bureau/Tetris + Sources/Sources/scores.h
+
